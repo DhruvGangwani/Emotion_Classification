@@ -1,0 +1,11 @@
+Emotion Classification using RoBERTa
+Dataset comprises of 6 emotions which includes:
+1. Joy
+2. Anger
+3. Sad
+4. Fear
+5. Love
+6. Surprise
+
+RoBERTa is applied using HuggingFace Library
+For more visualization, go through my Kaggle notebook https://www.kaggle.com/dhruv1234/emotion-classification-roberta
